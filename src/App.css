@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+
+.sm-container {
+  width: 100%;
+  max-width: 550px;
+  margin: 0 auto;
+}
